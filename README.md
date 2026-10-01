@@ -15,7 +15,7 @@
 
 - Languages & Querying: [Python, SQL]
 - Analysis & Libraries: [Pandas, NumPy, Matplotlib, Seaborn, etc.]
-- Visualization / BI: [Power BI / Tableau / Data Studio / Excel / Google Sheets]
+- Visualization / BI: [Power BI / Tableau / Looker Studio / Excel / Google Sheets]
 - Other: [Zapier, Statistics, Git & GitHub, Jupyter Notebook]
 
 
